@@ -10,6 +10,7 @@ My contact info
 - Phone #:
   - Home: (858)566-5018
   - Mobile/Work: (858)231-1445
-  File Descriptions
-  - Inventory: This lists all the different amount of coffee toppings and ingredients
-  - LogFile: This stores each order and showcases them texually in a simlar fashion to a Reciept
+
+File Descriptions
+- Inventory: This lists all the different amount of coffee toppings and ingredients
+- LogFile: This stores each order and showcases them texually in a simlar fashion to a Reciept
